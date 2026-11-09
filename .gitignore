@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Outputs
+outputs/*
+!outputs/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large intermediate arrays
+*.npz
+*.tif
+*.tiff
+
+# Office temp files
+~$*
